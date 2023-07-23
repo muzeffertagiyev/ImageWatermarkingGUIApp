@@ -36,7 +36,8 @@ python main.py
 3. Customize the watermark position, color, and size based on your preference.
 4. Click the "Confirm" button to apply the watermark to the image. The watermarked image will be displayed on the application interface.
 5. You can now download the watermarked image to your preferred location by clicking the "Download" button.
-6. If you want to start the watermarking process again or use a different image, you can click the "Select Image" button again to choose a new image.
+6. If you want to use a different image, you can click the "Select Image" button again to choose a new image.
+7. Close the app button will close the app completely , Do not forget to download the watermarked image before closing the app;)
 
 
 
