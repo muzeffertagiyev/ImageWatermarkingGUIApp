@@ -1,4 +1,4 @@
-Sure! Here's a suggested README file content that explains the application:
+
 
 # Image Watermarking Application
 
