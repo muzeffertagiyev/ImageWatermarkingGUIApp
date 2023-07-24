@@ -73,6 +73,8 @@ def close_the_app():
         root.destroy()
 
 def text_watermark_options():
+    if not msgb.askokcancel("Choose", "Do you really want to choose Text Watermark. Please be informed that you will not be able to return back to choose Logo Watermark"):
+        return
     watermark_text_label.pack()
     watermark_text_entry.pack()
     watermark_text_entry.focus_set()
@@ -91,6 +93,8 @@ def text_watermark_options():
 
 
 def logo_watermark_options():
+    if not msgb.askokcancel("Choose", "Do you really want to choose Logo Watermark. Please be informed that you will not be able to return back to choose Text Watermark"):
+        return
     place_label.pack()
     place_option_menu.pack()
 
