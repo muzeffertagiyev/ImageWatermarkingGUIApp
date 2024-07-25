@@ -1,8 +1,12 @@
-
-
 # Image Watermarking Application
 
 This is a simple Image Watermarking application built using Python and the Tkinter library. The application allows users to add text or logo watermarks to their images and save the watermarked image to their desired location.
+
+## Demo Video
+
+
+https://github.com/user-attachments/assets/fe021ce3-0698-4d05-b19c-c42cf4820946
+
 
 ## Features
 
